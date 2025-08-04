@@ -5,7 +5,8 @@ build:
 accounts:
   message: "Welcome to Prod APIs for Accounts Service"
   contactDetails:
-    email: "pandey@gmail.com"
+    email: "{cipher}8f5353ad778acee2cfea938b137cfd0fe5a85c9aa6f2798853b5ab8c323bfe7338e1a352205f9f4281ffae3828367900
+"
     name: "Rohit Pandey"
   onCallSupport:
     - (+91) 1234567895
