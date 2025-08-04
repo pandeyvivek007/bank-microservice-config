@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Prod APIs for Accounts Service"
+  contactDetails:
+    email: "pandey@gmail.com"
+    name: "Rohit Pandey"
+  onCallSupport:
+    - (+91) 1234567895
+    - (+91) 9876543215
