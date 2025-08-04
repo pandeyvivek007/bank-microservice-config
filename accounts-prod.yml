@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Say Hello! to Production APIs for Accounts Microservice"
+  message: "Say Hello! to Production APIs for Accounts micro"
   contactDetails:
     email: "{cipher}fe14b4e0c3e0d3d0a600390f8de71519c69eb48ff60619e0c732f0a1e9c492dfab0ace2794f228f87147bffc7bbe58a3"
     name: "Rohit Pandey"
