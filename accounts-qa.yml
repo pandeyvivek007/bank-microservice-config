@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Say Hello! to QA APIs for Accounts Service"
+  message: "Say Hello! to QA APIs for Accounts micro"
   contactDetails:
     email: "pandey@gmail.com"
     name: "Sumit Pandey"
