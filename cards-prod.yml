@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Hey Prod APIs for Cards Microservice"
+  message: "Prod APIs for Cards Microservice"
   contactDetails:
     email: "vivrk@gmail.com"
     name: "Rohit Pandey"
