@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Hey QA APIs for Loans Microservice"
+  message: "QA APIs for Loans Microservice"
   contactDetails:
     email: "vivek@gmail.com"
     name: "Aman Pandey"
