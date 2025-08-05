@@ -1,9 +1,9 @@
 
 build:
-  version: "4.1"
+  version: "10.0"
 
 accounts:
-  message: "Prod accounts service"
+  message: "Hello Friend! Prod accounts service"
   contactDetails:
     email: "{cipher}fe14b4e0c3e0d3d0a600390f8de71519c69eb48ff60619e0c732f0a1e9c492dfab0ace2794f228f87147bffc7bbe58a3"
     name: "Rohit Pandey"
